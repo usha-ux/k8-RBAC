@@ -10,8 +10,8 @@ data:
   mapUsers: |
     - groups:
       - default-trainee
-      userarn: arn:aws:iam::745540666431:user/usha
-      username: usha   
+      userarn: arn:aws:iam::745540666431:user/shine
+      username: shine  
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-09-17T03:19:26Z"
